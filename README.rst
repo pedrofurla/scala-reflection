@@ -1,3 +1,6 @@
+This forks eliminates lib/ dir. and soon will have maven dependencies.
+It was build with Scala 2.8.0-RC6 and ScalaTest 1.2
+
 ================================================================================
                           THE SCALA REFLECTION LIBRARY                          
 ================================================================================
